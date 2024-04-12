@@ -1,7 +1,7 @@
 
 
 
-  ![Status](./profile-night-rainbow.svg)
+  ![Status](profile-night-rainbow.svg)
   
 
   
